@@ -1,2 +1,2 @@
 # alfanetixcom
-Alfanetix CF Pages repo
+Alfanetix GH Pages repo
